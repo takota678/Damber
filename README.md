@@ -1,9 +1,10 @@
 # Damber
 
-# seguir las siguiente sinstrucciones
+# seguir las siguientes instrucciones
 
-'''
+```
 cd game 
 python3 main.py
 
-'''
+```
+
